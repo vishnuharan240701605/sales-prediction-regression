@@ -11,7 +11,7 @@ It's a great starting point if you're learning how regression works under the ho
 - How to calculate **slope (m)** and **intercept (c)** using the **least squares method**
 - Derive the **best-fit line equation**:  
   \[
-  y = m \cdot x + c
+  y = m*x + c
   \]
 - Predict new values with your equation
 - Evaluate model performance using **R² (coefficient of determination)**
