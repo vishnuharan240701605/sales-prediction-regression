@@ -22,7 +22,7 @@ It's a great starting point if you're learning how regression works under the ho
 ## 📁 Files Included
 
 - `linear_regression_from_scratch.ipynb`: Jupyter notebook with full explanations, code, and plots
-- *(Optional)* `sales_prediction.py`: Script version without markdown (if you add it later)
+- `linear_regression_from_scratch.py`: Script version without markdown 
 
 ---
 
